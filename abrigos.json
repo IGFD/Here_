@@ -1,0 +1,160 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "abrigos",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.706189, 2.830219 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Jardim Floresta",
+				"2_Vacancy_Total" : "600",
+				"3_Vacancy_Occupied" : "605",
+				"4_Vacancy_Free" : "-5",
+				"5_Shelter_Address" : "Avenida Carlos Pereira de Melo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.687358, 2.800508 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Rondon 1",
+				"2_Vacancy_Total" : "1500",
+				"3_Vacancy_Occupied" : "1478",
+				"4_Vacancy_Free" : "22",
+				"5_Shelter_Address" : "Avenida General Sampaio"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.688728, 2.799069 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Rondon 2",
+				"2_Vacancy_Total" : "2500",
+				"3_Vacancy_Occupied" : "2389",
+				"4_Vacancy_Free" : "111",
+				"5_Shelter_Address" : "Avenida General Sampaio"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.745647, 2.802169 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Pintolândia",
+				"2_Vacancy_Total" : "630",
+				"3_Vacancy_Occupied" : "630",
+				"4_Vacancy_Free" : "0",
+				"5_Shelter_Address" : "Rua Benjamim Pereira de Melo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7350006257, 2.8138064161 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Nova Canaã",
+				"2_Vacancy_Total" : "385",
+				"3_Vacancy_Occupied" : "350",
+				"4_Vacancy_Free" : "35",
+				"5_Shelter_Address" : "Rua Hebron"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7285655495, 2.8206277258 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Santa Tereza",
+				"2_Vacancy_Total" : "480",
+				"3_Vacancy_Occupied" : "483",
+				"4_Vacancy_Free" : "-3",
+				"5_Shelter_Address" : "Avenida São Sebastião"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7200988324, 2.8187944998 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Tancredo Neves",
+				"2_Vacancy_Total" : "400",
+				"3_Vacancy_Occupied" : "400",
+				"4_Vacancy_Free" : "0",
+				"5_Shelter_Address" : "Rua Pastor Fernando Granjeiro"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6986392965, 2.8325969996 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Centro de Referência do Imigrante",
+				"2_Vacancy_Total" : "200",
+				"3_Vacancy_Occupied" : "200",
+				"4_Vacancy_Free" : "0",
+				"5_Shelter_Address" : "Avenida Venezuela"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6781056386, 2.8191770379 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Latife Salomão",
+				"2_Vacancy_Total" : "400",
+				"3_Vacancy_Occupied" : "390",
+				"4_Vacancy_Free" : "10",
+				"5_Shelter_Address" : "Avenida Glaycon de Paiva"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6874854739, 2.8082981421 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo São Vicente",
+				"2_Vacancy_Total" : "300",
+				"3_Vacancy_Occupied" : "304",
+				"4_Vacancy_Free" : "-4",
+				"5_Shelter_Address" : "Rua Araraquara"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7671816338, 2.8035179636 ]
+			},
+			"properties" : {
+				"1_Shelter_Name" : "Abrigo Hélio Campos",
+				"2_Vacancy_Total" : "300",
+				"3_Vacancy_Occupied" : "278",
+				"4_Vacancy_Free" : "22",
+				"5_Shelter_Address" : "Rua HC Quatorze"
+			}
+		}
+	]
+}

@@ -1,0 +1,356 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Medical_service",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.704766, 2.830527 ]
+			},
+			"properties" : {
+				"Name" : "Coordenação Municipal De Imunização",
+				"Street Name" : "Eurides Vasconcelos Rodrigues",
+				"Street number" : "562",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.705748, 2.817168 ]
+			},
+			"properties" : {
+				"Name" : "Núcleo Estadual Do Programa Nacional De Imunização Nepni",
+				"Street Name" : "Rua Almerindo Mota Pereira",
+				"Street number" : "SN",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : "95-36270249"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.681063, 2.801719 ]
+			},
+			"properties" : {
+				"Name" : "Unidade Básica De Saúde 13 De Setembro",
+				"Street Name" : "Avenida Eldorado",
+				"Street number" : "19",
+				"Neighborhood" : "13 De Setembro",
+				"Phone_number" : "95-36231776"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.699156, 2.83179 ]
+			},
+			"properties" : {
+				"Name" : "Unidade De Saúde Da UFRR",
+				"Street Name" : "Campus Do Paricarana",
+				"Street number" : "S/n",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : "95-36213143"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.697269, 2.824329 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Do Rim De Roraima",
+				"Street Name" : "Avenida Princesa Isabel",
+				"Street number" : "92",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : "95-36272798"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.699347, 2.832324 ]
+			},
+			"properties" : {
+				"Name" : "Psicologia Clinica 24h",
+				"Street Name" : "Avenida Venezuela",
+				"Street number" : "3111",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : "95-81137875"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.688122, 2.805248 ]
+			},
+			"properties" : {
+				"Name" : "Unidade Móvel Indígena",
+				"Street Name" : "Avenida das Guianas",
+				"Street number" : "1645",
+				"Neighborhood" : "13 De Setembro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.701088, 2.832956 ]
+			},
+			"properties" : {
+				"Name" : "Unidade Básica De Saúde Jardim Floresta",
+				"Street Name" : "Rua Ana Cecilia Mota Da Silva",
+				"Street number" : "S/n",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : "95-36277973"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.688122, 2.805248 ]
+			},
+			"properties" : {
+				"Name" : "Unidade Móvel Expresso Saúde",
+				"Street Name" : "Avenida das Guianas",
+				"Street number" : "1645",
+				"Neighborhood" : "13 De Setembro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.688122, 2.805248 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Da Criança Santo Antonio",
+				"Street Name" : "Avenida das Guianas",
+				"Street number" : "1645",
+				"Neighborhood" : "13 De Setembro",
+				"Phone_number" : "95-31983000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.688122, 2.805248 ]
+			},
+			"properties" : {
+				"Name" : "Unidade Móvel Oftalmológica",
+				"Street Name" : "Avenida das Guianas",
+				"Street number" : "1645",
+				"Neighborhood" : "13 De Setembro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.682458, 2.817068 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Unimed Boa Vista",
+				"Street Name" : "Avenida Glaycon de Paiva",
+				"Street number" : "1027",
+				"Neighborhood" : "São Vicente",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6885999, 2.8325189 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Geral de Roraima Rubens de Souza Bento",
+				"Street Name" : "Avenida Brigadeiro Eduardo Gomes",
+				"Street number" : "1364",
+				"Neighborhood" : "Aeroporto",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.668635, 2.814409 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Lotty Iris",
+				"Street Name" : "Rua José Coelho",
+				"Street number" : "72",
+				"Neighborhood" : "Centro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6606825, 2.8273167 ]
+			},
+			"properties" : {
+				"Name" : "Hospital da Mulher",
+				"Street Name" : "Rua Melvin Jones",
+				"Street number" : "126",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6713907, 2.8237138 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Coronel Mota",
+				"Street Name" : "Rua Coronel Pinto",
+				"Street number" : "664",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6792994, 2.817643 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Posto Saúde Militar",
+				"Street Name" : "Rua Cerejo Cruz",
+				"Street number" : "831",
+				"Neighborhood" : "Centro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.667637, 2.82992 ]
+			},
+			"properties" : {
+				"Name" : "Hospital Materno Infantil Nossa Senhora de Nazaré",
+				"Street Name" : "Rua Presidente Costa e Silva",
+				"Street number" : "",
+				"Neighborhood" : "São Pedro",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.697186, 2.824595 ]
+			},
+			"properties" : {
+				"Name" : "Clinica Renal de Roraima",
+				"Street Name" : "Avenida Princesa Isabel",
+				"Street number" : "92",
+				"Neighborhood" : "Jardim Floresta",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6801968, 2.8299137 ]
+			},
+			"properties" : {
+				"Name" : "Posto Médico Guarnição de Boa Vista",
+				"Street Name" : "Avenida Forte São Joaquim",
+				"Street number" : "210",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7185313, 2.8186296 ]
+			},
+			"properties" : {
+				"Name" : "Maternidade Nossa Senhora de Fátima",
+				"Street Name" : "Avenida Parma",
+				"Street number" : "685",
+				"Neighborhood" : "Caimbé",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.6707904, 2.8396683 ]
+			},
+			"properties" : {
+				"Name" : "Posto de Saúde 31 de Marco",
+				"Street Name" : "Rua Major Carlos Mardel",
+				"Street number" : "100",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.7024157, 2.8192082 ]
+			},
+			"properties" : {
+				"Name" : "Centro de Recuperação Nutricional Infantil - CERNUTRI",
+				"Street Name" : "Avenida General Ataíde Teive",
+				"Street number" : "SN",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.74521164, 2.807436148 ]
+			},
+			"properties" : {
+				"Name" : "Hospital das Clínicas",
+				"Street Name" : "Avenida Nazaré Filgueiras",
+				"Street number" : "SN",
+				"Neighborhood" : "",
+				"Phone_number" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -60.744096137, 2.808530972 ]
+			},
+			"properties" : {
+				"Name" : "Policlínica Cosme e Silva",
+				"Street Name" : "Rua Delman Veras ",
+				"Street number" : "SN",
+				"Neighborhood" : "",
+				"Phone_number" : "95-36277053"
+			}
+		}
+	]
+}
